@@ -1,4 +1,9 @@
 # MoodBoost-Website
  Der ganze Code der MoodBoost-Website
 
-Carlo, Gianna
+Carlo
+Carlo
+
+Alisha
+Gianna
+
